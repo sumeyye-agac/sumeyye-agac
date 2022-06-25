@@ -5,4 +5,4 @@
 
 :blossom: Enthusiastic about machine learning and deep learning applications. Currently, interested in different deep learning methods for sensor-based human activity recognition.
 
-:eyes: Linkedin (https://www.linkedin.com/in/sumeyye-agac-800039/)
+:eyes: [Linkedin](https://www.linkedin.com/in/sumeyye-agac-800039/)
