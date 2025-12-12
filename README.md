@@ -7,7 +7,7 @@
 
 🌱 [Visit my website](https://sumeyye-agac.github.io/)
 
-✨ [LinkedIn](https://www.linkedin.com/in/sumeyye-agac-800039/)
+✨ [LinkedIn](https://www.linkedin.com/in/sumeyyeagac/)
 
 📚 [Google scholar](https://scholar.google.com/citations?user=GnrF2DsAAAAJ&hl=tr&oi=ao)
 
